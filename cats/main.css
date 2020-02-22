@@ -1,0 +1,23 @@
+
+	img{
+		width: 30%;
+	}
+div{
+	width: 60%;
+	margin: auto;
+	border: 20px groove #C0C0C0;
+	padding: 25px;
+	background-color: rgba(220,220,220,0.8);
+
+}
+h1{
+	font-family: 'Prosto One', cursive;
+}
+p{
+font-family: 'Comfortaa', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Prata', serif;
+}
+body{
+	background-image:url("img/фон2.jpg");
+	}
